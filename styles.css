@@ -1,0 +1,17 @@
+.App{
+    padding: 45px;
+    text-align: center;
+}
+
+.post-form{
+    margin-bottom : 35px;
+}
+
+
+.post-list{
+    margin-bottom : 35px;
+}
+
+.post{
+    padding: 12px;
+}
